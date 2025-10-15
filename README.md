@@ -1,4 +1,4 @@
-# Data Analytics & Modeling Portfolio — Débora S. G. Baena
+# Portfolio — Débora S. G. Baena
 
 Projects covering **data modeling**, **Python**, **SQL**, **pandas**, **NumPy**, **scikit-learn**, **matplotlib**, and **seaborn** — from data wrangling to visualization and predictive models. The goal is to produce **actionable insights** with sound engineering and analytics practices.
 
